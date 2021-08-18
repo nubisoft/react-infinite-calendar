@@ -63,7 +63,7 @@
   "license": "MIT",
   "main": "lib/index.js",
   "module": "es/index.js",
-  "name": "@nubisoft/react-infinite-calendar",
+  "name": "react-infinite-calendar",
   "peerDependencies": {
     "react": "^15.3.0 || ^16.0.0-alpha"
   },
